@@ -1,0 +1,93 @@
+
+*{
+    background-color: white;
+ 
+}
+
+header{
+    border: 3px #4176e7f8 solid;
+    border-radius: 20px;
+    box-shadow: 0px 10px 15px #4176e7f8;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+#titretechnicien{
+    display: flexbox;
+    font-size:x-large;
+    text-align: center;
+    color: #4176e7f8;
+    margin-left: 30%;
+    font-weight: bold;
+}
+
+body{
+    border: 5px #4176e7f8 solid;
+    background-color: rgba(192, 192, 192, 0.952);
+    margin-left: 1%;
+    margin-right: 1%;
+
+
+}
+
+section{
+    color: rgb(9, 35, 92);
+    margin-left: 10%;
+    margin-top: 5%;
+    margin-right: 10%;
+}
+
+div{
+    text-align: end;
+    float: right;
+}
+
+h1{
+    margin-top: 1%;
+    margin-left: 1%;
+    text-align:start;
+    font-size: 2em;
+    color: #4176e7f8;
+    text-shadow:0px 1px 1px  white;
+}
+h2{
+    margin-top: 1%;
+    margin-left: 1%;
+    text-align:start;
+    font-size: 1em;
+    color: rgb(9, 35, 92);
+}
+
+h3{
+    color: white;
+    background-color: #4176e7f8;
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow';
+    font-size: 1.3em;
+    margin-left: 10%;
+    width: 70%;
+    height: 40px;
+    text-align: center;
+    padding-top: 2%;
+}
+
+
+
+footer{
+    color: #030c20f8;
+    margin-left: 10%;
+    margin-right: 10%;
+    text-align: center;
+}
+.titreapropos{
+    text-align: center;
+    color: #030c20f8;
+    margin-left: 10%;
+    margin-right: 10%;
+
+}
+ul{
+    margin-left: 10%;
+}
+
+/* overflow: auto;  si le texte depasse le block.
+word-wrap: break-word;  pour couper un texte et aller a la ligne.*/
